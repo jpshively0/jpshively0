@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpshively0&label=Profile%20views&color=0e75b6&style=flat" alt="jpshively0" /> </p>
 
-- 🔭 I’m currently working on **BookEase**
 
 - 🌱 I’m currently learning **Spring and Machine Learnng**
 
@@ -15,7 +14,6 @@
 
 - 📫 How to reach me **jpshively0@gmail.com**
 
-- ⚡ Fun fact **I enjoy a Manchester United match with a bottle of Peroni.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
